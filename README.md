@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/7ac7e0a2-d48d-4335-8729-e0dc80d09bc0
 </p>
 
 <p>
-  <a href="https://github.com/karagioules/My_Local_Backup/releases/latest">Download</a> &bull;
+  <a href="https://github.com/georgekgr12/My_Local_Backup/releases/latest">Download</a> &bull;
   <a href="#features">Features</a> &bull;
   <a href="#requirements">Requirements</a> &bull;
   <a href="#building">Building</a> &bull;
